@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".BookDetailActivity">
+
+
+    <item android:id="@+id/criticas" android:title="@string/l_criticas"
+        android:orderInCategory="100" app:showAsAction="always" />
+
+
+
+</menu>
+
+<!-- From: file:/C:/Users/Javi/dsa-projects/books-project/books-android/app/src/main/res/menu/menu_books_main.xml -->
