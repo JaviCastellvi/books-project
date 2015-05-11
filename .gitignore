@@ -2,4 +2,4 @@
 .project
 .settings/
 target/
-bookdb-data.sql
+booksdb-data.sql
